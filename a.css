@@ -1,0 +1,32 @@
+.html{
+height: 100%;
+}
+
+.background{
+background-size: cover;
+background-image: url("bkgd.webp");
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+height: 100%;
+width: 100%;
+margin: 0;
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+}
+.logo{
+margin: 0 auto;
+display: block;
+border-radius: 200px;
+margin-top: 35%;
+}
+.name{
+text-align: center;
+margin-top: 15px;
+}
+.div1{
+height: 100%;
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+width: 100%;
+}
