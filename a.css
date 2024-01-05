@@ -11,22 +11,29 @@ background-attachment: fixed;
 height: 100%;
 width: 100%;
 margin: 0;
-backdrop-filter: blur(5px);
--webkit-backdrop-filter: blur(5px);
+
 }
 .logo{
 margin: 0 auto;
 display: block;
 border-radius: 200px;
 margin-top: 35%;
+height: 30%;
 }
 .name{
 text-align: center;
 margin-top: 15px;
+font-size: 300%;
 }
-.div1{
-height: 100%;
-backdrop-filter: blur(5px);
+.bilibili{
 -webkit-backdrop-filter: blur(5px);
-width: 100%;
+backdrop-filter: blur(5px);
+height: 10%;
+border-radius: 200px;
+display: block;
+}
+.div2{
+margin: 0 auto;
+
+
 }
