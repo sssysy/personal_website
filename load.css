@@ -28,6 +28,7 @@ body {
     gap: 20px;
     margin-left: 100px;
     backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
     background-color: rgba(0,0,0,0.15);
     border-radius: 17px;
     border: 50px;
